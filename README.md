@@ -1,1 +1,1 @@
-# Basic-Level-Python-Programs-in-one-shot-
+# Basic Level Python Programs in one shot
